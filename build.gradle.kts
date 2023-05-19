@@ -1,11 +1,11 @@
 plugins {
     id("java")
-    id("org.jetbrains.kotlin.jvm") version "1.7.20"
-    id("org.jetbrains.intellij") version "1.13.1"
+    id("org.jetbrains.kotlin.jvm") version "1.8.21"
+    id("org.jetbrains.intellij") version "1.13.3"
 }
 
 group = "com.nekofar.milad"
-version = "1.0-SNAPSHOT"
+version = "1.0.0-alpha.0"
 
 repositories {
     mavenCentral()
@@ -17,7 +17,7 @@ intellij {
     version.set("2021.3")
     type.set("IU") // Target IDE Platform
 
-    plugins.set(listOf(/* Plugin Dependencies */))
+    plugins.set(listOf("JavaScript", "org.jetbrains.plugins.vue:213.5744.223"))
 }
 
 tasks {
