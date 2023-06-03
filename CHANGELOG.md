@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0-alpha.1] - 2023-06-03
+
+### Miscellaneous Tasks
+
+- Specifiy linter version in qodana config file
+
 ## [1.0.0-alpha.0] - 2023-05-19
 
 ### Miscellaneous Tasks
