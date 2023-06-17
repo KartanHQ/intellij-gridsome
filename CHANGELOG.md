@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0-alpha.2] - 2023-06-17
+
+### Build
+
+- Change `pluginUntilBuild` from `231.*` to `232.*`
+- Bump org.jetbrains.intellij from 1.13.3 to 1.14.1 (#4)
+
 ## [1.0.0-alpha.1] - 2023-06-03
 
 ### Miscellaneous Tasks
