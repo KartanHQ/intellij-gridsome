@@ -1,7 +1,7 @@
 # IntelliJ Gridsome Plugin
 
-[![JetBrains Plugins](https://img.shields.io/jetbrains/plugin/v/00000-gridsome)](https://plugins.jetbrains.com/plugin/00000-gridsome)
-[![JetBrains plugins](https://img.shields.io/jetbrains/plugin/d/00000-gridsome)](https://plugins.jetbrains.com/plugin/00000-gridsome/versions)
+[![JetBrains Plugins](https://img.shields.io/jetbrains/plugin/v/22332-gridsome)](https://plugins.jetbrains.com/plugin/22332-gridsome)
+[![JetBrains plugins](https://img.shields.io/jetbrains/plugin/d/22332-gridsome)](https://plugins.jetbrains.com/plugin/22332-gridsome/versions)
 [![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/KartanHQ/intellij-gridsome/build.yml?branch=master)](https://github.com/KartanHQ/intellij-gridsome/actions/workflows/build.yml)
 [![GitHub](https://img.shields.io/github/license/KartanHQ/intellij-gridsome)](https://github.com/KartanHQ/intellij-gridsome/blob/master/LICENSE)
 [![Twitter Follow](https://img.shields.io/badge/follow-%40nekofar-1DA1F2?logo=twitter&style=flat)](https://twitter.com/nekofar)
